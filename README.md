@@ -1,5 +1,3 @@
-# Freecodecamp Projects
-
 Repositories for all [my freeCodeCamp](https://www.freecodecamp.org/emrido) projects.
 
 ## Javascript Algorithms and Data Structures
