@@ -13,3 +13,7 @@ Repositories for all [my freeCodeCamp](https://www.freecodecamp.org/emrido) proj
 - [Telephone Number Validator](https://github.com/emrido/freecodecamp-projects/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Telephone%20Number%20Validator.js)
 
 - [Cash Register](https://github.com/emrido/freecodecamp-projects/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Cash%20Register.js)
+
+## Responsive Web Design
+
+- [Technical Documentation Page](https://emrido.github.io/freecodecamp-projects/Responsive%20Web%20Design/Technical%20Documentation%20Page/)
